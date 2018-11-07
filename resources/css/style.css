@@ -3,9 +3,16 @@ h1  {
   font-weight: normal;
   font-size: 50px;
   color: white;
-  align-content: center;
 }
 
 body {
   background-color: black;
+  font-family: Verdana;
+  text-align: center;
+}
+
+.download {
+  color: Aquamarine;
+  font-size: 16px;
+  text-decoration-line: underline;
 }
