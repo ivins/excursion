@@ -28,3 +28,9 @@ body {
   font-size: 21px;
   color: Gray;
 }
+
+.copyright {
+  color: Gray;
+  text-align: right;
+  font-size: 21px;
+}
